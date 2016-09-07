@@ -16,7 +16,8 @@ On Saturday, October 1st, we will host a 12-hours event focusing on [Special Pro
   * Report with summary of a session with discoveries, conclusions or assumptions a group have made towards an issue
   * Combination of the previous 2 or a 3rd format that will showcase the results of a group
 
-After that, all results will be submitted to OpenAI alongside with the names of the participants and a group lead.
+All results will be submitted to OpenAI alongside with the names of the participants and a group lead.
 
-
+##Prerequisites
+2 main elements for this format are 
 
