@@ -34,6 +34,9 @@ for immediate delivery.
 
 - **Group Members** are people who compose a team around the topic of interest. A group members are masterminds behind the solutions and findings of the given topics. 
 
+##Participation
+
+
 ###Backgrounds 
 Truth be told that having diverse backrounds in a group provides new angles and perspectives on issues, and leads to a new discoveries and solutions. Nevertheless, here are some recommended skills necessary for anyone who operates in the field of AI and the resources that cover it:
 - Basics:
@@ -53,7 +56,7 @@ Truth be told that having diverse backrounds in a group provides new angles and 
       - Reinforcement Learning: [videos of David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) on RL Andrej Karpathy’s [post](http://karpathy.github.io/2016/05/31/rl/) on deep reinforcement learning 
 - Python is a primary choice for DL
 
-##Participation
+
 
 
 
