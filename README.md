@@ -4,7 +4,7 @@
 
 **Where: 404 Bryant Street, Sandbox Suites**
 
-[**Registration**](https://docs.google.com/forms/u/1/d/1gGlXDaEmmQ1CtBD27oqwD45BZQPxPd7gmaI1RzqUuCk/edit)
+[**Registration**](https://goo.gl/forms/cftfb3Fog3q85Cah1)
 
 This event is created for the overflow attendees of the [Self-Organizing Conference on Machine Learning](https://openai.com/blog/machine-learning-unconference/) by OpenAI. 
 
