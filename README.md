@@ -29,7 +29,7 @@ Groups will be provided with the separate office spaces, in case meetup will be 
 ##Unofficial SOCML16 Format
 It would be fair to say that this event, as a spin-off of the original conference, is dedicated to OpenAI. It is also fair to say that we, as a community, having diverse backgrounds, expertise and skills can provide meaningful input for them, by tackling or trying to tackle problems they are working on. In that regard, we propose an experimental format, that will allow us to make an impact and showcase our capabilities on both personal and group levels.
 
-We will host 12-hours event focusing on [Special Projects](https://openai.com/blog/special-projects/) of OpenAI.
+The event is focused on [Special Projects](https://openai.com/blog/special-projects/) of OpenAI.
 - **The Idea** is to compose 4 teams accordingly to 4 special projects, that will brainstorm, run experiments, hack or simply put together a report with their findings or conclusions about a particular project. 
 - **The Goal** is to provide a new perspective on issues, try to find the solutions or propose a new approach.
 - **The Outcome** of the work of every group will be:
