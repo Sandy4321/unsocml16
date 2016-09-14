@@ -4,7 +4,7 @@
 
 **Where: 404 Bryant Street, Sandbox Suites**
 
-This page is created for the overflow attendees Self-Organizing Conference on Machine Learning. 
+This event is created for the overflow attendees of the [Self-Organizing Conference on Machine Learning](https://openai.com/blog/machine-learning-unconference/) by OpenAI. 
 
 As you may know, OpenAI is putting together the [Self-Organizing Conference on Machine Learning](https://github.com/openai/socml16/wiki). The number of attendees is limited to about 200 people in order to make event work best. Members of the community proposed unofficial event for the overflow attendees, so [Joseph Catrambone](https://github.com/JosephCatrambone) reached us out with this idea asking to help with that.
 
