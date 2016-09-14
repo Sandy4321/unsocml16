@@ -6,9 +6,9 @@
 
 This page is created for the overflow attendees Self-Organizing Conference on Machine Learning. 
 
-As you may know, OpenAI is putting together a [Self-Organizing Conference on Machine Learning](https://github.com/openai/socml16/wiki). The number of attendees is limited to about 200 people in order to make event work best. Many people from the community showed the interest in an event for those who will not be able to attend, so [Joseph Catrambone](https://github.com/JosephCatrambone) reached us out with this idea asking to help with that.
+As you may know, OpenAI is putting together the [Self-Organizing Conference on Machine Learning](https://github.com/openai/socml16/wiki). The number of attendees is limited to about 200 people in order to make event work best. Members of the community proposed unofficial event for the overflow attendees, so [Joseph Catrambone](https://github.com/JosephCatrambone) reached us out with this idea asking to help with that.
 
-We are happy to help and would like to thank the community and Joseph for giving us this courtesy. As it was proposed, unofficial event will consist of 3 parts with the following agenda:
+We are happy to help and would like to thank the community and Joseph for giving us this courtesy. There are 3 parts of unofficial event with the following agenda:
 
 ##Agenda
 - **Afterparty of official SOCML16** [Jack Crawford](https://github.com/jackccrawford) kindly offered to host afterparty of the official event to be held on Friday, October 7th, at around 6-7 pm. [Address](https://goo.gl/maps/XMyHxQYhBhC2)
