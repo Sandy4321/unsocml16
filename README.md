@@ -14,8 +14,15 @@ We are happy to help and would like to thank the community and Joseph for giving
 - **Afterparty of official SOCML16** [Jack Crawford](https://github.com/jackccrawford) kindly offered to host afterparty of the official event to be held on Friday, October 7th, at around 6-7 pm. [Address](https://goo.gl/maps/XMyHxQYhBhC2)
 - **Unofficial SOCML16** is an experimental format of a 12-hours working session consisted of 4 teams tackling [Special Projects](https://openai.com/blog/special-projects/) for OpenAI. Each group is limited to 10 members max. Read the details about the format below.
 - **Meetup** for the overflow attendees. This will be a regular gathering for the community, that will be hosted in the evening of unsocml16.
+
       -**Schedule:**
-      - 9:00 
+      - 9:00am  - registration
+      - 10:00am - welcome note, group formation
+      - 10:15am - 9:00pm - working session
+      - 7:00pm  - meetup starts
+      - 9:00pm  - closing notes
+      
+Groups will be provided with the separate office spaces, in case meetup will be loud. 
 
 ##Unofficial SOCML16 Format
 It would be fair to say that this event, as a spin-off of the original conference, is dedicated to OpenAI. It is also fair to say that we, as a community, having diverse backgrounds, expertise and skills can provide meaningful input for them, by tackling or trying to tackle problems they are working on. In that regard, we propose an experimental format, that will allow us to make an impact and showcase our capabilities on both personal and group levels.
