@@ -1,12 +1,21 @@
 # Unofficial Self-Organizing Conference on Machine Learning
+
+**When: Saturday, October 1, 2016.**  **9:00am- 9:00pm**
+
+**Where: 404 Bryant Street, Sandbox Suites**
+
 This page is created for the overflow attendees Self-Organizing Conference on Machine Learning. 
 
 As you may know, OpenAI is putting together a [Self-Organizing Conference on Machine Learning](https://github.com/openai/socml16/wiki). The number of attendees is limited to about 200 people in order to make event work best. Many people from the community showed the interest in an event for those who will not be able to attend, so [Joseph Catrambone](https://github.com/JosephCatrambone) reached us out with this idea asking to help with that.
 
-We are happy to help and would like to thank the community and Joseph giving us this courtesy. As it was proposed, unofficial event will consist of 3 parts:
-- **Afterparty of official SOCML16** [Jack Crawford](https://github.com/jackccrawford) kindly offered to host afterparty of the official event to be held on Friday, October 7th, at around 6-7 pm. 
-- **Unofficial SOCML16** 12-hours working session consisted of 4 teams tackling [Special Projects](https://openai.com/blog/special-projects/) for OpenAI. Each group is limited to 10 members max. Read the details about the format below.
-- **Meetup** for the overflow attendees. This will be a regular gathering for the community.
+We are happy to help and would like to thank the community and Joseph for giving us this courtesy. As it was proposed, unofficial event will consist of 3 parts with the following agenda:
+
+##Agenda
+- **Afterparty of official SOCML16** [Jack Crawford](https://github.com/jackccrawford) kindly offered to host afterparty of the official event to be held on Friday, October 7th, at around 6-7 pm. [Address](https://goo.gl/maps/XMyHxQYhBhC2)
+- **Unofficial SOCML16** is an experimental format of a 12-hours working session consisted of 4 teams tackling [Special Projects](https://openai.com/blog/special-projects/) for OpenAI. Each group is limited to 10 members max. Read the details about the format below.
+- **Meetup** for the overflow attendees. This will be a regular gathering for the community, that will be hosted in the evening of unsocml16.
+      -**Schedule:**
+      - 9:00 
 
 ##Unofficial SOCML16 Format
 It would be fair to say that this event, as a spin-off of the original conference, is dedicated to OpenAI. It is also fair to say that we, as a community, having diverse backgrounds, expertise and skills can provide meaningful input for them, by tackling or trying to tackle problems they are working on. In that regard, we propose an experimental format, that will allow us to make an impact and showcase our capabilities on both personal and group levels.
@@ -61,6 +70,11 @@ Please choose how do you want to participate (Group Lead/Group Member) and the t
 ####Choosing a Group Lead
 A group lead is required to have the relevant background, expertise, and skills and is responsible for a group outcome. We use our network and reaching out people who can be a good fit for that, but we would like to encourage members of the community to apply as well as propose someone who might be a good fit (send your proposals to e@xix.ai)
 
+All 4 group leads will be announced prior the event in the Slack channel
+
+####Communication
+- Join [AI Meetup Series Slack](https://xixslack.herokuapp.com/) and use [#unsocml16 channel](https://aimeetupseries.slack.com/messages/unsocml16/) for the event
+- Questions or proposals send to e@xix.ai
 
 
 
