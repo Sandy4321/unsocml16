@@ -4,6 +4,8 @@
 
 **Where: 404 Bryant Street, Sandbox Suites**
 
+[**Registration**](https://docs.google.com/forms/u/1/d/1gGlXDaEmmQ1CtBD27oqwD45BZQPxPd7gmaI1RzqUuCk/edit)
+
 This event is created for the overflow attendees of the [Self-Organizing Conference on Machine Learning](https://openai.com/blog/machine-learning-unconference/) by OpenAI. 
 
 As you may know, OpenAI is putting together the [Self-Organizing Conference on Machine Learning](https://github.com/openai/socml16/wiki). The number of attendees is limited to about 200 people in order to make the event work best. Members of the community proposed unofficial event for the overflow attendees, so [Joseph Catrambone](https://github.com/JosephCatrambone) reached us out with this idea asking to help with that.
@@ -41,16 +43,16 @@ All results will be submitted to OpenAI alongside with the names of the particip
 
 ##Prerequisites
 In order to pull this off, two elements are required:
-- **Group Lead/Facilitator**, is a person who leads the working group and is responsible for the outcome of the team. A group lead possesses necessary skills and expertise in the topic that allows her to guide and navigate through an agenda. Being a facilitator means:
-  * Understanding the goals of the working group
-  * Keeping the group on the agenda and moving forward
-  * Involving everyone in the meeting, including drawing out the quiet participants and controlling the domineering ones
-  * Makes sure everyone feels comfortable participating
-  * Develops a structure that allows for everyone's ideas to be heard
-  * Assign a support person together with whom will capture the working group findings to a written report
-for immediate delivery.
-
 - **Group Members** are people who compose a team around the topic of interest. Group members are masterminds behind the solutions and findings of the given topics. 
+
+- **Group Lead/Facilitator**, is a person who leads the working group and is responsible for the outcome of the team. A group lead possesses necessary skills and expertise in a topic that allows her to guide and navigate through an agenda. To be a facilitator means:
+  * To understand the goals of the working group
+  * To keep the group on the agenda and moving forward
+  * To involve everyone in the meeting, including drawing out the quiet participants and controlling the domineering ones
+  * To make sure everyone feels comfortable participating
+  * To develop a structure that allows for everyone's ideas to be heard
+  * To assign a support person together with whom will capture the working group findings to a written report
+for immediate delivery.
 
 ###Backgrounds 
 This event will assume some familiarity with machine learning, deep learning, and reinforcement learning. Attendees who are not familiar with the concepts below are encouraged to brush up using the references provided below.
@@ -80,6 +82,8 @@ Please choose how do you want to participate (Group Lead/Group Member) and the t
 A group lead is required to have the relevant background, expertise, and skills and is responsible for a group outcome. We use our network and reaching out people who can be a good fit for that, but we would like to encourage members of the community to apply as well as propose someone who might be a good fit (send your proposals to e@xix.ai)
 
 All 4 group leads will be announced prior the event in the Slack channel
+
+For participation in the meetup, [RSVP here](https://www.meetup.com/superintelligencemeetup/events/234130900/)
 
 ####Communication
 - Join [AI Meetup Series Slack](https://xixslack.herokuapp.com/) and use [#unsocml16 channel](https://aimeetupseries.slack.com/messages/unsocml16/) for the event
