@@ -5,7 +5,7 @@ As you may know, OpenAI is putting together a [Self-Organizing Conference on Mac
 
 We are happy to help and would like to thank the community and Joseph giving us this courtesy. As it was proposed, unofficial event will consist of 3 parts:
 - **Afterparty of official SOCML16** [Jack Crawford](https://github.com/jackccrawford) kindly offered to host afterparty of the official event to be held on Friday, October 7th, at around 6-7 pm. 
-- **Unofficial SOCML16** 12-hours working sessions, consisted of 4 teams tackling [Special Projects](https://openai.com/blog/special-projects/) for OpenAI. Each group is limited to 10 members max. Read the details about the format below.
+- **Unofficial SOCML16** 12-hours working session consisted of 4 teams tackling [Special Projects](https://openai.com/blog/special-projects/) for OpenAI. Each group is limited to 10 members max. Read the details about the format below.
 - **Meetup** for the overflow attendees. This will be a regular gathering for the community.
 
 ##Unofficial SOCML16 Format
@@ -13,17 +13,17 @@ It would be fair to say that this event, as a spin-off of the original conferenc
 
 On Saturday, October 1st, we will host a 12-hours event focusing on [Special Projects](https://openai.com/blog/special-projects/) of OpenAI.
 - **The idea** is to compose 4 teams accordingly to 4 projects, that will brainstorm,run experiments,hack or simply put together a report with their findings or conclusions. 
-- **The Goal** is to provide a new perspective on issues, try to find the solutions or propose new approach.
+- **The Goal** is to provide a new perspective on issues, try to find the solutions or propose a new approach.
 - **The Outcome** of the work of every group will be:
   * Code/Repo of proposed solution or results of the experiments that the group has been running
-  * Report with summary of a session with discoveries, conclusions or assumptions a group have made towards an issue
+  * Report with summary of a session with discoveries, conclusions or assumptions a group has made towards an issue
   * Combination of the previous 2 or a 3rd format that will showcase the results of a group
 
 All results will be submitted to OpenAI alongside with the names of the participants and a group lead.
 
 ##Prerequisites
 In order to pull this off, two elements are required:
-- **Group Lead/Facilitator**, is a person who leads the working group and is responsible for the outcome of the team. A group lead posess necessary skills and expertise in the topic that allows her to guide and navigate through an agenda. Being a facilitator means:
+- **Group Lead/Facilitator**, is a person who leads the working group and is responsible for the outcome of the team. A group lead possesses necessary skills and expertise in the topic that allows her to guide and navigate through an agenda. Being a facilitator means:
   * Understanding the goals of the working group
   * Keeping the group on the agenda and moving forward
   * Involving everyone in the meeting, including drawing out the quiet participants and controlling the domineering ones
@@ -32,10 +32,10 @@ In order to pull this off, two elements are required:
   * Assign a support person together with whom will capture the working group findings to a written report
 for immediate delivery.
 
-- **Group Members** are people who compose a team around the topic of interest. A group members are masterminds behind the solutions and findings of the given topics. 
+- **Group Members** are people who compose a team around the topic of interest. Group members are masterminds behind the solutions and findings of the given topics. 
 
 ###Backgrounds 
-This event will assume some familiarity with machine learning, deep learning and reinforcement learning. Attendees who are not familiar with the concepts below are encouraged to brush up using the references provided below.
+This event will assume some familiarity with machine learning, deep learning, and reinforcement learning. Attendees who are not familiar with the concepts below are encouraged to brush up using the references provided below.
 - Basics:
   * Linear Algebra
   * Calculus 
@@ -59,7 +59,7 @@ For participation in Unofficial SOCML16 fill in the registration form below:
 [UNSOCML16 Registration](https://goo.gl/forms/n3GFzLdOAISs13Rv2)
 Please choose how do you want to participate (Group Lead/Group Member) and the topic you are interested in.
 ####Choosing a Group Lead
-A group lead is required to have the relevant background, expertise and skills and is responsible for a group outcome. We use our network and reaching out people who can be a good fit for that, but we would like to encourage memebrs of the community to apply as well as propose someone who might be a good fit (send your proposals to e@xix.ai)
+A group lead is required to have the relevant background, expertise, and skills and is responsible for a group outcome. We use our network and reaching out people who can be a good fit for that, but we would like to encourage members of the community to apply as well as propose someone who might be a good fit (send your proposals to e@xix.ai)
 
 
 
